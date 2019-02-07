@@ -32,7 +32,3 @@ persons: 2, 4, more
 lug_boot: small, med, big 
 
 safety: low, med, high 
-
-
-
-https://www.kaggle.com/nikunjm88/carefully-dealing-with-missing-values/notebook
